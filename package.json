@@ -1,0 +1,22 @@
+{
+  "name": "hub",
+  "version": "1.0.0",
+  "description": "Quantified self dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidPatterson-Cole/hub.git"
+  },
+  "author": "David Patterson-Cole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidPatterson-Cole/hub/issues"
+  },
+  "homepage": "https://github.com/DavidPatterson-Cole/hub#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
